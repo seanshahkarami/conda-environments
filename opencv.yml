@@ -1,4 +1,4 @@
-name: ml
+name: opencv
 channels:
   - conda-forge
 dependencies:
